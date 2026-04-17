@@ -1,6 +1,7 @@
 # Box 自动化录音分析 Skill
 
 这是一个可复用的录音分析自动化项目模板，用于快速搭建“自定义行业”的录音分析流程。
+<img width="1149" height="799" alt="image" src="https://github.com/user-attachments/assets/c09602ea-9ee8-4e0a-ae4c-6d13c33316b5" />
 
 #直接展示部分C端项目案例-销售录音分析（共计7大段，仅展示一部分)：
 
