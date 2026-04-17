@@ -2,6 +2,13 @@
 
 这是一个可复用的录音分析自动化项目模板，用于快速搭建“自定义行业”的录音分析流程。
 
+#直接展示部分C端项目案例-销售录音分析（共计7大段，仅展示一部分)：
+
+<img width="730" height="734" alt="image" src="https://github.com/user-attachments/assets/3eaa5b82-1246-4284-b134-65b6393104c4" />
+<img width="741" height="716" alt="image" src="https://github.com/user-attachments/assets/ea7be764-0aba-4fc7-96a0-c4826b30e15c" />
+<img width="734" height="621" alt="image" src="https://github.com/user-attachments/assets/39b6dd1f-8e0e-475d-9073-60fbc665b744" />
+
+
 ## 功能概览
 - 音频切段：`ffmpeg`
 - 语音转录：`SenseVoiceSmall`
