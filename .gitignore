@@ -1,0 +1,9 @@
+# 本地 Hugging Face / 句向量模型权重（体积大，勿提交）
+local_models/
+# Chroma 向量库（由 vector_builder.py 生成）
+local_skills_db/
+
+# 本地缓存/系统文件
+.DS_Store
+__pycache__/
+*.pyc

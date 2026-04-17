@@ -1,0 +1,17 @@
+{
+  "name": "box-automation-audio-analysis-skill",
+  "version": "4.1.0",
+  "description": "Box automated recording analysis skill",
+  "main": "handler.py",
+  "keywords": ["audio-analysis", "sensevoice", "openclaw", "ffmpeg", "template"],
+  "author": "尖叫",
+  "license": "MIT",
+  "dependencies": {
+    "funasr": ">=1.3.0",
+    "torch": ">=2.0.0",
+    "requests": ">=2.28.0"
+  },
+  "peerDependencies": {
+    "openclaw": ">=3.0.0"
+  }
+}

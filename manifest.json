@@ -1,0 +1,30 @@
+{
+  "name": "Box 自动化录音分析 Skill",
+  "slug": "box-automation-audio-analysis-skill",
+  "description": "Box 自动化录音分析：自动识别系统并准备 ffmpeg、SenseVoiceSmall 与向量模型，完成转录切段、RAG 检索、结构化分析与报告输出。",
+  "version": "4.1.0",
+  "author": "尖叫",
+  "license": "MIT",
+  "category": "business-analysis",
+  "main_entry": "handler.py",
+  "dependencies": [
+    "funasr",
+    "torch",
+    "torchaudio",
+    "requests",
+    "chromadb",
+    "sentence-transformers",
+    "langchain-core",
+    "langchain-text-splitters",
+    "openai",
+    "huggingface-hub"
+  ],
+  "ui": {
+    "theme": "light",
+    "primary_color": "#F5F5ED",
+    "sidebar_width": 180,
+    "main_layout": "expanded"
+  },
+  "capabilities": ["audio_upload", "markdown_render", "learning-mode", "knowledge-learning"],
+  "tags": ["audio-analysis", "ffmpeg", "sensevoice", "rag", "windows", "macos", "linux", "knowledge-base"]
+}
