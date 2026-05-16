@@ -1,4 +1,5 @@
 #audio-skill 一款自动化录音分析
+
 <img width="533" height="797" alt="1" src="https://github.com/user-attachments/assets/0595a9b9-3d8c-4304-ad3e-5e555c99fdb9" />
 <img width="537" height="568" alt="2" src="https://github.com/user-attachments/assets/07db4109-ff6f-4df6-bead-8dcd31c77ffb" />
 
